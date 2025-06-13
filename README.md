@@ -1,7 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>🛜 currently working on quant-driven investment strategies and data science projects<br>👨🏼‍🎓 lifelong learner with certifications from Google, Yale, Microsoft, Cisco, and Coursera <br>🎬 passionate about photography and creative storytelling <i>tobi tackles tech</i>
+# Hello World!, I'm Jegadeesh, a Data Science and Quant trading aspirant 👋🏼:
+🛜 currently working on quant-driven investment strategies and data science projects<br>👨🏼‍🎓 lifelong learner with certifications from Google, Yale, Microsoft, Cisco, and Coursera <br>🎬 passionate about photography and creative storytelling  [webpage](https://www.tobiasmeyhoefer.de)<br><i>tobi tackles tech</i>
 
 
 # 💻 Tech Stack:
