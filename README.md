@@ -1,6 +1,7 @@
 
 # Hello Fam!, I'm Jegadeesh, a Data Science and Quant trading aspirant ✨
-🛜 currently working on quant-driven investment strategies and data science projects<br>👨🏼‍🎓 lifelong learner with certifications from Google, Yale, Microsoft, Cisco, and Coursera  <br>🎬 passionate about photography and creative storytelling  <br>📖 I love reading <br> [LinkedIn](https://www.linkedin.com/in/jegadeesh17/) | [Instagram](https://www.instagram.com/jegadeesh.jpg/) | [Resume](https://jegadeesh-resume.s3.us-east-1.amazonaws.com/jegadeesh_resume.pdf)
+🛜 currently working on quant-driven investment strategies and data science projects<br>👨🏼‍🎓 lifelong learner with certifications from Google, Yale, Microsoft, Cisco, and Coursera  <br>🎬 passionate about photography and creative storytelling  <br>📖 I love reading <br> [LinkedIn](https://www.linkedin.com/in/jegadeesh17/) | [Instagram](https://www.instagram.com/jegadeesh.jpg/) 
+#| [Resume](https://jegadeesh-resume.s3.us-east-1.amazonaws.com/jegadeesh_resume.pdf)
 
 
 
